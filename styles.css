@@ -1,1 +1,59 @@
-/* Copy and paste your CSS from CodePen into here */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue",
+    Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+  background-color: #faf0e6;
+}
+
+p {
+  margin: auto 150px auto 150px;
+}
+
+ul {
+  max-width: 800px;
+  margin: 0 auto 60px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+li {
+  margin: 16px;
+}
+
+.under-title {
+  padding: 0px auto 0px auto;
+  margin: 0px auto 35px auto;
+}
+
+.img-caption {
+  font-size: 16px;
+  padding: 0px auto 0px auto;
+  margin: 0px auto 0px auto;
+}
+
+#main {
+  background: #faf0e6;
+}
+
+#title {
+  margin-bottom: 5px;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0 30% 50px 30%;
+  background-color: #f3f3f3;
+}
+
+#image {
+  width: 50%;
+}
+
+#tribute-info {
+  margin: 0px auto 50px auto;
+}
